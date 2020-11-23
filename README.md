@@ -2,7 +2,7 @@
 
 " 3Dmocap" is a mocap project that takes a video with one character as input, and outputs corresponding 3d skeleton stored in .fbx file, which is a directed research project supervised by Prof. Scott Easley.
 
-This repo is an refine version of our previous work. see [3DMoCap](https://github.com/ReWr1te/3DMoCap)
+This repo is an refined version of our previous work. see [3DMoCap](https://github.com/ReWr1te/3DMoCap)
 In the new version, we add the world movement for hip position by using depth info got by [OpenMMD](https://github.com/peterljq/OpenMMD) .
 
 Also, this repo contains a tutorial to run [3Dpose_ssl](https://github.com/chanyn/3Dpose_ssl) on the custom data. Details please refer to README.md in 3Dpose_ssl folder. All the instruction below is for our 3Dmocap project.
